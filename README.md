@@ -3,7 +3,7 @@ kodluyoruz eğitimi kapsamında açtığım ilk repo.İçerisinde bir adet READM
 ## Insallation
 öncelikle projeyi clonelayın(buraya sizin reponuzdan link gelecek)
 
-[git clone](https://github.com/yektaonuren/kodluyoruzilkrepo)
+[git clone] (https://github.com/yektaonuren/kodluyoruzilkrepo)
 
 ## Usage
 Projeyi cloneladıktan sonra Visual Studio Code Programında açınız.
