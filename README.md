@@ -1,5 +1,8 @@
 # kodluyoruzilkrepo
-kodluyoruz eğitimi kapsamında açtığım ilk repo.İçerisinde bir adet README dosyası,bir adet de index.html barındırıyor.
+kodluyoruz eğitimi kapsamında açtığım ilk repo.
+<a href="https://github.com/yektaonureren/kodluyoruz-frontend/tree/kodluyoruzilkrepo">1-CSS</a>
+<a href="url">2-BOOSTRAP</a>
+<a href="url">3-JAVASCRİPT</a>
 ## Insallation
 öncelikle projeyi clonelayın(buraya sizin reponuzdan link gelecek)
 
