@@ -2,7 +2,11 @@
 kodluyoruz eğitimi kapsamında açtığım ilk repo.
 <a href="https://github.com/yektaonureren/kodluyoruz-frontend/tree/kodluyoruzilkrepo">1-CSS</a>
 <a href="url">2-BOOSTRAP</a>
-<a href="url">3-JAVASCRİPT</a>
+<a href="https://github.com/yektaonureren/analogsaat">3-JAVASCRİPT-1</a>
+<a href="https://github.com/yektaonureren/html-css-exercises/tree/master/todolistforpatika">3-JAVASCRİPT-2</a>
+<a href="url">3-JAVASCRİPT-3</a>
+
+
 ## Insallation
 öncelikle projeyi clonelayın(buraya sizin reponuzdan link gelecek)
 
