@@ -1,5 +1,5 @@
 # kodluyoruzilkrepo
-kodluyoruz eğitimi kapsamında açtığım ilk repo
+kodluyoruz eğitimi kapsamında açtığım ilk repo<br>
 ***CSS ÖDEVLERİ<br>
 1-<a href="https://github.com/yektaonureren/kodluyoruz-frontend/tree/kodluyoruzilkrepo/.vscode/ödevcss1">CSS ile ilk web sayfası</a><br>
 
